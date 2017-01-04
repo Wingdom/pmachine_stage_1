@@ -23,9 +23,10 @@
 |program, and then look at the log.txt to see how the program ran, trace   |  
 |the stack, PC, BP, and SP.+-----------------------------------------------+  
 +--------------------------+  
-|Not all of the operations have been tested (OPR #, #)
-|some of the might not work correctly, but the ones that are used
-|by the programs given for examples in class do work, and the other ones
-|might need minor logic changes only.  
-|The Log file is apended each time a program is run, and time stamped.  
-|The VM automatically loads test.txt, use load to load another .txt file.  
+
+Not all of the operations have been tested (OPR #, #)
+some of the might not work correctly, but the ones that are used
+by the programs given for examples in class do work, and the other ones
+might need minor logic changes only.  
+The Log file is apended each time a program is run, and time stamped.  
+The VM automatically loads test.txt, use load to load another .txt file.  
